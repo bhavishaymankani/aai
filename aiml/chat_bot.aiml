@@ -1,0 +1,25 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            Hello user
+        </template>
+    </category>
+
+    <category>
+        <pattern>What is your Name</pattern>
+        <template>
+            My name is bhavi
+        </template>
+    </category>
+
+    <category>
+        <pattern>How r u</pattern>
+        <template>
+            I'm fine
+        </template>
+    </category>
+
+    
+</aiml>
